@@ -1,0 +1,6 @@
+{
+  "name": "Ashok Farmer Billing",
+  "description": "Offline-first farmer ledger, WhatsApp bulk transaction parser, and A4 landscape PDF generator for Ashok Flower Stall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

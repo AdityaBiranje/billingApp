@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ashok Farmer Billing</string>
+    <string name="stall_title">अशोक फ्लॉवर स्टॉल</string>
+    <string name="stall_subtitle_dashboard">खातेवही जनरेटर डॅशबोर्ड</string>
+    <string name="stall_subtitle_bill">फुलांचे विक्रेते व कमिशन एजंट</string>
+    <string name="tab_bulk_paste">पेस्ट करा</string>
+    <string name="tab_entries">व्यवहार</string>
+    <string name="tab_preview">बिल प्रिव्ह्यू</string>
+    <string name="action_saved_bills">जतन बिले</string>
+    <string name="action_save_pdf">PDF सेव्ह</string>
+    <string name="action_share_pdf">PDF शेअर</string>
+    <string name="action_print_pdf">प्रिंट</string>
+</resources>
